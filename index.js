@@ -3,6 +3,7 @@ import {render} from 'react-dom';
 import axios from 'axios';
 import * as pdfmake from 'pdfmake/build/pdfmake';
 import * as pdfFonts from 'pdfmake/build/vfs_fonts';
+import 'bootstrap/dist/css/bootstrap.css';
 
 import { Modal, ModalHeader, ModalBody } from 'reactstrap';
 import { FaFilePdf } from "react-icons/fa";
@@ -423,4 +424,4 @@ class Report_9 extends Component {
   }
 }
 
-render (<Report_2/>,document.getElementById("root")) ;
+render (<Report_9/>,document.getElementById("root")) ;
