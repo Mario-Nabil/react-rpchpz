@@ -12,7 +12,7 @@ import { FaFilePdf } from "react-icons/fa";
 
 
 
-class Report_2 extends Component {
+class Report_9 extends Component {
   constructor(){
     super()
     this.state = {
