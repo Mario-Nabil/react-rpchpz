@@ -3,8 +3,12 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.18.0",
+    "pdfmake": "^0.1.54",
     "react": "^16.8.0",
-    "react-dom": "^16.8.0"
+    "react-dom": "^16.8.0",
+    "react-icons": "^3.5.0",
+    "reactstrap": "^7.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
